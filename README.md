@@ -1,6 +1,7 @@
 ## README
 
-This is a collection of graphics for the NUI Toolkit, and in a sense
+This is a collection of graphics for the
+[NUI Toolkit](http://github.com/nilium/NUIToolkit), and in a sense
 are the graphics that NUIT was written with in mind.  That being said,
 NUIT is fairly flexible, and I've provided the PSDs for all controls
 in the interest of ensuring that you have a reasonable idea of what
